@@ -4,7 +4,7 @@
   <img alt="Banner" src="/images/banner.png"/>
 </div>
 
-At ElonWalllet we have made it our mission to provide an easy-to-use, cloud-based non-custodial cryptocurrency wallet for blockchain enthusiasts and those who want to explore blockchain without the usability issues of other non-custodial wallets. 
+At ElonWalllet we have made it our mission to provide an easy-to-use, cloud-based, non-custodial cryptocurrency wallet for blockchain enthusiasts and those who want to explore blockchain without the usability issues of other non-custodial wallets. 
 
 Find out more using the links below!
 
