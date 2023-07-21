@@ -8,6 +8,23 @@ At ElonWalllet we have made it our mission to provide an easy-to-use, cloud-base
 
 Find out more using the links below!
 
-Visit our Homepage | Explore the Documentation
-:-------------------------:|:-------------------------:
-![](/images/ElonWallet.png)  |  ![](/images/ElonWallet.png)
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <td valign="top">
+      <a href="https://elonwallet.io" width="40%">
+        <img alt="homepage" src="/images/ElonWallet.png"/>
+        <p align="center">
+          Visit the Homepage
+        </p>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://docs.elonwallet.io" width="40%">
+        <img alt="homepage" src="/images/ElonWallet.png"/>
+        <p align="center">
+          Explore the Documentation
+        </p>
+      </a>
+    </td>
+  </tr>
+</table>
